@@ -18,9 +18,11 @@ $(function () {
         if (children.is(":visible")) {
             children.hide('fast');
             $(this).children().first().removeClass('fa fa-folder-open-o fa-lg').addClass('fa fa-folder-o fa-lg');
+            $(this).attr('title', 'Open this folder');
         } else {
             children.show('fast');
             $(this).children().first().removeClass('fa fa-folder-o fa-lg').addClass('fa fa-folder-open-o fa-lg');
+            $(this).attr('title', 'Close this folder');
         }
         e.stopPropagation();
     });
