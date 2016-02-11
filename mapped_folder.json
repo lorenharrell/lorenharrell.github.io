@@ -1,0 +1,530 @@
+[{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "title": "AddIns",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "title": "Lyari.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari.xml",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_portrait.png",
+                  "isFolder": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "title": "Lyari.jpg",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Lyari_Story.xml",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das.met",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "screen.dds",
+                          "isFolder": false
+                        }
+                      ],
+                      "title": "AutoSave_1",
+                      "isFolder": true
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "title": "Lyari.jpg",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Lyari_Story.xml",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das.met",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "screen.dds",
+                          "isFolder": false
+                        }
+                      ],
+                      "title": "AutoSave_2",
+                      "isFolder": true
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "title": "Lyari.jpg",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Lyari_Story.xml",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das.met",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "screen.dds",
+                          "isFolder": false
+                        }
+                      ],
+                      "title": "AutoSave_3",
+                      "isFolder": true
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "title": "Lyari.jpg",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Lyari_Story.xml",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "savegame.das.met",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "screen.dds",
+                          "isFolder": false
+                        }
+                      ],
+                      "title": "AutoSave_4",
+                      "isFolder": true
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "title": "Lyari.jpg",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Lyari_Story.xml",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Ostagar.das",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "Ostagar.das.met",
+                          "isFolder": false
+                        },
+                        {
+                          "children": [],
+                          "title": "screen.dds",
+                          "isFolder": false
+                        }
+                      ],
+                      "title": "Slot_1",
+                      "isFolder": true
+                    }
+                  ],
+                  "title": "Saves",
+                  "isFolder": true
+                }
+              ],
+              "title": "Lyari",
+              "isFolder": true
+            }
+          ],
+          "title": "Characters",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "DragonAge_1.log",
+              "isFolder": false
+            }
+          ],
+          "title": "Logs",
+          "isFolder": true
+        },
+        {
+          "children": [],
+          "title": "Offers",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "title": "data",
+                  "isFolder": true
+                },
+                {
+                  "children": [],
+                  "title": "override",
+                  "isFolder": true
+                }
+              ],
+              "title": "core",
+              "isFolder": true
+            }
+          ],
+          "title": "packages",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "title": "Lyari_378796.jpg",
+                  "isFolder": false
+                }
+              ],
+              "title": "Achievements",
+              "isFolder": true
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "title": "Lyari_100.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_101.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_102.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_103.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_104.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_105.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_106.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_107.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_109.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_110.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_111.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_112.jpg",
+                  "isFolder": false
+                },
+                {
+                  "children": [],
+                  "title": "Lyari_201.jpg",
+                  "isFolder": false
+                }
+              ],
+              "title": "Story",
+              "isFolder": true
+            }
+          ],
+          "title": "Screenshots",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "addIns.xml",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DragonAge.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "KeyBindings.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "offers.xml",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "Profile.dap",
+              "isFolder": false
+            }
+          ],
+          "title": "Settings",
+          "isFolder": true
+        }
+      ],
+      "title": "Dragon Age",
+      "isFolder": true
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "DAISAVEAUTO17E43843.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVEAUTOB5EB2553.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVECHAP17E43843.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVECHAPB5EB2553.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVETIME17E43843.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVETIMEB5EB2553.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVEU00117E43843.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "DAISAVEU001B5EB2553.DAS",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "ProfileOptions",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "ProfileOptions_profile",
+              "isFolder": false
+            }
+          ],
+          "title": "Save",
+          "isFolder": true
+        },
+        {
+          "children": [],
+          "title": "Screenshots",
+          "isFolder": true
+        }
+      ],
+      "title": "Dragon Age Inquisition",
+      "isFolder": true
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "BIOCredits.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOEditor.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOEngine.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOGame.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOGuiResources.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOInput.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOParty.ini",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "BIOQA.ini",
+              "isFolder": false
+            }
+          ],
+          "title": "Config",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "09-26-15 18_49_43.log",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "09-26-15 18_56_04.log",
+              "isFolder": false
+            },
+            {
+              "children": [],
+              "title": "MassEffect.log",
+              "isFolder": false
+            }
+          ],
+          "title": "Logs",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "title": "LocalShaderCache-PC-D3D-SM3.upk",
+                  "isFolder": false
+                }
+              ],
+              "title": "CookedPC",
+              "isFolder": true
+            }
+          ],
+          "title": "Published",
+          "isFolder": true
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "title": "Profile.MassEffectProfile",
+              "isFolder": false
+            }
+          ],
+          "title": "Save",
+          "isFolder": true
+        }
+      ],
+      "title": "Mass Effect",
+      "isFolder": true
+    }
+  ],
+  "title": "BioWare",
+  "isFolder": true
+}]
