@@ -1,0 +1,29 @@
+[{
+  "name":"root",
+  "type":"folder",
+  "children":
+    [{
+    "name":"Folder 1",
+    "type":"folder",
+    "children": [
+      {
+        "name":"Sub Folder 1",
+        "type":"folder"
+      },
+      {
+        "name":"Sub Folder 2",
+        "type":"folder"
+      }]
+
+  },
+  {
+    "name":"Folder 2",
+    "type":"folder",
+    "children": [
+      {
+        "name":"Sub Folder 1",
+        "type":"folder"
+      }]
+  }]
+
+}]
