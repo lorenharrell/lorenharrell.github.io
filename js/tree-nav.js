@@ -76,49 +76,49 @@ $(document).ready(function(){
 function LoadDir() {
 	var html = `
   		<li>
-      <span><i class="fa fa-folder-o fa-lg"></i><label>MSC MIS</label></span>
+      <span><i class="fa fa-folder-o fa-lg"></i><label>Root Folder</label></span>
       <ul>
         <li>
-          <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Classes</a>
+          <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Sub Folder</a>
           <ul>
             <li>
-              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Booking a Student Into Class.html</a>
+              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
             </li>
           </ul>
         </li>
         <li>
-          <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Students</a>
+          <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Sub Folder</a>
           <ul>
             <li>
-              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Common Issues</a>
+              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
             </li>
             <li>
-              <span><i class="fa fa-folder-open-o fa-lg"></i></span> <a href="">Rare Issues</a>
+              <span><i class="fa fa-folder-open-o fa-lg"></i></span> <a href="">Sub Sub Folder</a>
             </li>
             <li>
-              <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Complicated Issues</a>
+              <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Sub Sub Folder</a>
               <ul>
                 <li>
-                  <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">More Complex Issues</a>
+                  <span><i class="fa fa-folder-o fa-lg"></i></span> <a href="">Sub Sub Sub Folder</a>
                   <ul>
                     <li>
-                      <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Complex Issue.html</a>
+                      <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
                     </li>
                     <li>
-                      <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Complex Issue.html</a>
+                      <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Complicated Issue.html</a>
+                  <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
                 </li>
                 <li>
-                  <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Complicated Issue.html</a>
+                  <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
                 </li>
               </ul>
             </li>
             <li>
-              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">Common Issue.html</a>
+              <span><i class="fa fa-file-text-o fa-lg"></i></span> <a href="">File.txt</a>
             </li>
           </ul>
         </li>
